@@ -1,38 +1,76 @@
-# moving-wave-portfolio
-A Portfolio built in HTML and CSS with a moving wave SVG and working submit form. 
+<h2 align="center">
+  Portfolio Website - v2.0<br/>
+  <a href="http://soumyajit.tech/" target="_blank">soumyajit.tech</a>
+</h2>
+<div align="center">
+  <img alt="Demo" src="./Images/readme-img1.png" />
+</div>
 
-Watch the Full tutorial [here](https://youtu.be/1DwvqHGyMKU)
+<br/>
 
-In this video I show you how to build a moving SVG portfolio with a working submit form using just HTML and CSS and deploy it! To get 10% off on Hostinger packages use code ANIAKUBOW on this link here: https://www.hostinger.com/aniakubow
+<center>
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
+![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
 
-___
-⭐ Use promo code ANIAKUBOW for 3 months free of WebStorm IDE here (I get no commission from this link, but am in a partnership): https://jb.gg/get_webstorm
+</center>
 
-⭐ New to code and none of this is making sense? Watch my '12hr+ YouTube Coding Bootcamp' in which you will learn HTML, CSS and JavaScript Fundamentals completely from scratch. It's on my channel and its 100% free.
+<h3 align="center">
+    🔹
+    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    🔹
+    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+</h3>
 
-⭐ In most videos I use Tabnine as my A.I autocompletion tool. You can download it for free here (I get no commission from this link, but am in a partnership): http://bit.ly/tabnine-top-tool
+## TL;DR
 
-⭐ You can get a blockchain domain with my affiliate link here: http://bit.ly/get-a-crypto-domain
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
 
-⭐ If you would like to buy me a coffee, well thank you very much that is mega kind!: https://www.buymeacoffee.com/aniakubow
+## Built With
 
-⭐ Sign up for weekly coding tips from my newsletter partnership: https://bit.ly/JS-tips
+My personal portfolio <a href="http://soumyajit.tech/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
-You can also find me on:
-Twitter: https://twitter.com/ania_kubow
-Instagram: https://instagram.com/aniakubow
+This project was built using these technologies.
 
-#codingbootcamp​ #coding
+- React.js
+- Node.js
+- Express.js
+- CSS3
+- VsCode
+- Vercel
 
-### MIT Licence
+## Features
 
-Copyright (c) 2020 Ania Kubow
+**📖 Multi-Page Layout**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+**📱 Fully Responsive**
 
-*Translation: Ofcourse you can use this for you project! Just make sure to say where you got this from :)
+## Getting Started
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+
+## 🛠 Installation and Setup Instructions
+
+1. Installation: `npm install`
+
+2. In the project directory, you can run: `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The page will reload if you make edits.
+
+## Usage Instructions
+
+Open the project folder and Navigate to `/src/components/`. <br/>
+You will find all the components used and you can edit your information accordingly.
+
+### Show your support
+
+Give a ⭐ if you like this website!
+
+<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
